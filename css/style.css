@@ -104,7 +104,6 @@ a {
     top: 10px;
     right: 10px;
     background-color: transparent;
-    border: none;
     cursor: pointer;
     font-size: 22px;
     outline: 1px solid transparent;
@@ -122,11 +121,6 @@ a {
     outline-color: #048304;
 }
 
-.active {
-    display: block;
+.modal2 p {
+    margin-bottom: 10px;
 }
-
-.open {
-    display: flex;
-}
-
